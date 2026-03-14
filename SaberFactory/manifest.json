@@ -3,14 +3,14 @@
   "id": "SaberFactory",
   "name": "Saber Factory",
   "author": "Toni Macaroni",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "description": "A highly customizable saber mod",
-  "gameVersion": "1.32.0",
+  "gameVersion": "1.40.8",
   "dependsOn": {
-    "AssetBundleLoadingTools": "^1.0.0",
-    "BeatSaberMarkupLanguage": "^1.6.10",
-    "BSIPA": "^4.3.0",
-    "CameraUtils": "^1.0.0",
-    "SiraUtil": "^3.1.2"
+    "AssetBundleLoadingTools": "^1.1.10",
+    "BeatSaberMarkupLanguage": "^1.12.5",
+    "BSIPA": "^4.3.6",
+    "CameraUtils": "^1.0.7",
+    "SiraUtil": "^3.2.1"
   }
 }

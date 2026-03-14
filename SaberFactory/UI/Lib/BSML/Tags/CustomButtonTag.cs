@@ -2,7 +2,7 @@
 using BeatSaberMarkupLanguage.Components;
 using BeatSaberMarkupLanguage.Tags;
 using HMUI;
-using Polyglot;
+using BGLib.Polyglot;
 using SaberFactory.Helpers;
 using TMPro;
 using UnityEngine;
